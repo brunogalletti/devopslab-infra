@@ -1,4 +1,3 @@
-
 lab-devops-cloud-344714
 terraform {
   required_providers {
